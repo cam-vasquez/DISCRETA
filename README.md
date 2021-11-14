@@ -7,7 +7,7 @@
 
 Solo necesita ingresar los datos que se les pide
 
-*La opcion 1 calcula la probabilidad de ser escojido dentro del juego
+*La opcion 1 calcula la probabilidad de ser seleccionado dentro del juego
 
 *En la opción 2 (Insertar perfil de jugador) el usuario solamente puede ingresar un jugador a la vez, es decir, ingresa el perfil.
 Por ejemplo:
