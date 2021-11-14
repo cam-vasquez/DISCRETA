@@ -3,8 +3,6 @@
 
 *Para ejecutar este programa puede utilizar el siguiente link del compilador online que ejecuta nuestro programa: https://onlinegdb.com/Xydni-Vs9 o puede descargar la aplicación Visual Studio Code (No necesario).
 
-Si utiliza el compilador online debe de dirigirse a language y elegir C++, copiar el programa en el compilador y ejecutarlo dando click en Run.
-
 *El programa nos proporciona un menu con 7 opciones, donde el usuario elige una y el codigo la ejecuta. Al mostrar el resultado de su opción el menu volverá a aparecer. Para salir y terminar de ejecutar el rpograma, seleccione la opción 7 
 
 Solo necesita ingresar los datos que se les pide
