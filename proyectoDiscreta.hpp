@@ -22,7 +22,7 @@ void probInicial(){
 
     float nTotalPersonas, pInicial;
 
-    cout << "Ingrese el numero de candidatos para el Juego del calamar " <<endl;
+    cout << "Ingrese el numero de candidatos para el Juego del calamar ";
     cin >> nTotalPersonas;
     
     pInicial = 1/nTotalPersonas;
@@ -53,7 +53,7 @@ void ingresarJugador(void){
 
 void mostrarJugador(){
     cout <<endl;
-    cout << "Jugagor registrado" <<endl;
+    cout << "\tJugagor registrado" << endl;
     cout << "Nombre: " << nombre << endl;
     cout << "Apellido: "<< apellido << endl;
     cout << "Edad: " << edad << endl;
@@ -65,7 +65,7 @@ void mostrarJugador(){
 
 void probEmpirica(void){
     cout <<endl;
-    cout << "Ingrese la cantidad de personas que participaran en el Juego del Calamar: " << endl;
+    cout << "Ingrese la cantidad de personas que participaran en el Juego del Calamar: ";
     cin >> nJugadores;
 
     cout << "Ingrese la cantidad de personas que ganarian en  el Juego del Calamar: ";
@@ -95,7 +95,7 @@ void probEdades(void){
     float luzVR, galletas, cuerda, canicas, cristales, calamar;
 
     cout << endl << endl;
-    cout << endl <<  "\t\tProbabilidad de ganar segun la edad del jugador" <<endl;
+    cout << endl <<  "\t\tProbabilidad de ganar segun la edad del jugador" << endl;
 
     pHabilidades = (0.441) * (0.5373) * (0.5) * (0.5) * (0.1875) * (0.5);
     
