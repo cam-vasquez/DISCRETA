@@ -1,7 +1,7 @@
 # PROYECTO DISCRETA
 #INDICACIONES PARA EJECUTAR EL PROGRAMA
 
-*Para ejecutar este programa puede utilizar el siguiente compilador online: https://www.onlinegdb.com/online_c_compiler o puede descargar la aplicación Visual Studio Code (No necesario).
+*Para ejecutar este programa puede utilizar el siguiente link del compilador online que ejecuta nuestro programa: https://onlinegdb.com/Xydni-Vs9 o puede descargar la aplicación Visual Studio Code (No necesario).
 
 Si utiliza el compilador online debe de dirigirse a language y elegir C++, copiar el programa en el compilador y ejecutarlo dando click en Run.
 
