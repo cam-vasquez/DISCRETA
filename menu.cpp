@@ -40,6 +40,7 @@ int main(void){
                 break;
             case 6:
             probCristales();
+                 break;
             case 7: 
                 continuar = false;
                 break;
