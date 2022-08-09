@@ -1,5 +1,6 @@
-# PROYECTO DISCRETA
-#INDICACIONES PARA EJECUTAR EL PROGRAMA
+#PROYECTO DISCRETA
+____
+##INDICACIONES PARA EJECUTAR EL PROGRAMA
 
 *Para ejecutar este programa puede utilizar el siguiente link del compilador online que ejecuta nuestro programa: https://onlinegdb.com/YvnaEM3-s o puede descargar la aplicación Visual Studio Code (No necesario).
 
